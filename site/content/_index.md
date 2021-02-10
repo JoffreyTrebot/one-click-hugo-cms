@@ -1,5 +1,5 @@
 ---
-title: Chaud chaud cacao, chaud chaud chocolat
+title: Chaud chaud cacao, chaud chaud chocolat,
 subtitle: Support sustainable farming while enjoying a cup
 image: /img/home-jumbotron.jpg
 blurb:
